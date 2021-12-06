@@ -1,1 +1,1 @@
-# wordpressrancher
+# wordpress
